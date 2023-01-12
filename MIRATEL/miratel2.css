@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+boby{
+    width: 100%;
+    background-color: rgb(114, 4, 114);
+    position: relative;
+    padding: 0 30px;
+}
